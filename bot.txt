@@ -1,0 +1,6 @@
+{
+	"ip":"KILLER_GAMER_SHRISH.aternos.me",
+	"port": "60436",
+	"name": "afkbot1",
+	"auto-night-skip":"true"
+}
